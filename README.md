@@ -11,6 +11,8 @@ The code is developed and tested in MATLAB R2017a on Windows 10.
 
 For a quick start, run `demo\demoUI\demo.m`.
 
+We provide a test case in `demo\demoUI\case1`.
+
 Refer to `getAllParameter.m` for modifying algorithm parameters.
 
 # Citation
